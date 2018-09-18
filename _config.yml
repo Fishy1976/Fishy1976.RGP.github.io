@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Bedlington FC
-email: info@bedlingtonfc.org
+title: Real General Practice
+email: info@code4health.org
 description: > # this means to ignore newlines until "baseurl:"
   This site is under construction
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://Fishy1976.github.io" # the base hostname & protocol for your site
-twitter_username: bedlingtonfc
+url: "https://RGP.github.io" # the base hostname & protocol for your site
+twitter_username: 
 github_username:  Fishy1976
 
 collections:
