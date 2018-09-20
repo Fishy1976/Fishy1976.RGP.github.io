@@ -10,7 +10,7 @@ title: Real General Practice
 email: info@code4health.org
 description: > # this means to ignore newlines until "baseurl:"
   This site is under construction
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "https://fishy1976.github.io/Fishy1976.RGP.github.io/" # the subpath of your site, e.g. /blog
 url: "https://Fishy1976.github.io/Fishy1976.RGP.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  Fishy1976
